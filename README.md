@@ -38,6 +38,8 @@
     &nbsp
   <img alt="Redux"        src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"        height="30"/>
     &nbsp
+   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="30" style="margin-right:10px"/>
+  &nbsp
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" height="30"/>
 </p>
 
@@ -59,8 +61,12 @@
 <p>
   <img alt="MongoDB"    src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"       height="30"/>
   &nbsp
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
-  &nbsp
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white" height="30" style="margin-right:10px"/>
+    &nbsp
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30" style="margin-right:10px"/>
+    &nbsp
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" height="30" style="margin-right:10px"/>
+    &nbsp
   <img alt="AWS"        src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"       height="30"/>
     &nbsp
   <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"         height="30"/>
@@ -74,6 +80,12 @@
   &nbsp;
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="30"/>
   &nbsp;
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="30" style="margin-right:10px"/>
+   &nbsp;
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" height="30" style="margin-right:10px"/>
+   &nbsp;
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-FF69B4?logo=openai&logoColor=white" height="30" style="margin-right:10px"/>
+   &nbsp;
   <img alt="RAG" src="https://img.shields.io/badge/RAG-FFB300?logo=openai&logoColor=black" height="30"/>
   &nbsp;
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white" height="30"/>
