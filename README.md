@@ -63,15 +63,17 @@
 </p>
 
 ### ML & Gen AI  
-<img alt="NumPy"        src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"          height="30"/>
- &nbsp
-  <img alt="Pandas"       src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"        height="30"/>
-   &nbsp
+<p>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="30"/>
+  &nbsp;
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="30"/>
+  &nbsp;
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="30"/>
-   &nbsp
-  <img alt="RAG"          src="https://img.shields.io/badge/RAG-FFB300?logo=openai&logoColor=black"           height="30"/>
-   &nbsp
-  <img alt="LangChain"    src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white"     height="30"/>
+  &nbsp;
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-FFB300?logo=openai&logoColor=black" height="30"/>
+  &nbsp;
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white" height="30"/>
+</p>
 
 ---
 
