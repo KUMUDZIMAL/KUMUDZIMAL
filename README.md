@@ -48,8 +48,7 @@
   <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"   height="30"/>
     &nbsp
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white"  height="30"/>
-    &nbsp
-  <img alt="GraphQL"     src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"     height="30"/>
+   
 </p>
 
 ### Databases & Cloud  
@@ -64,15 +63,15 @@
 </p>
 
 ### ML & Gen AI  
-<p>
-  <img alt="TensorFlow.js" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white" height="30"/>
-    &nbsp
-  <img alt="PyTorch"       src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"     height="30"/>
-    &nbsp
-  <img alt="LangChain"     src="https://img.shields.io/badge/LangChain-000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuUlEQVQ4T7WTT0hTURSGn3PPe8tZEhS4iIC0SNFNYW4KtFISR0Ikq0thYFECURF+QK0BdBtGQq7YIwT0LGiChIoJLSIpYIVCUeFcE92VnF3nPme55/7zsn43MjAz/Pec85zvnPPec1Xb9S1QFZB8Z8a/DHW2Ab4ObB1iAs4N+q5s4BbB+oKzg8aBcBzgrWA0pNgrWojO/Qq+gJ4BnxYuAZeCukTKD1wx2x3maFQ0/APtvRJZJ7QAPTgjrADuADedxI+7Bi4F+8BfQu4yCy+mzQCXkXn8Qz5otNlkhoNPY+TRTAu4GBNhK5eAwyAW0VkUkG/GGgxIL2q0ZKZJILT15NiZ7TLTXUu4BjYeqSzW0uYiUZnfFgy80o+o+AifgP2FwjIcTuiVrQvY7Gi9VlfaGk3RtZA5uvAD8o1BoS2Ybfx0yBW8TV1tJ8GK4gW0ZxpbeQLQtvtBC8QfjNTONzne77oe+AXcKf4X/KCH67lxL67A2QLfi7wPfhXR7bYQqGJr5vB2OHhhJblWzLWvB+Nx8mn5H6daFrCK8J1utt2fQPpwgL0IuMN+oz2kF9Iwwd/ynGLst+MayDSTkRFjEu7qPnT5P0tcvybGhA+h/DXgM+FcGp+HJybwAo0g00I4hYLHLnJGAAAAAElFTkSuQmCC" height="30"/>
-    &nbsp
-  <img alt="OpenAI"        src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"       height="30"/>
-</p>
+<img alt="NumPy"        src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"          height="30"/>
+ &nbsp
+  <img alt="Pandas"       src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"        height="30"/>
+   &nbsp
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="30"/>
+   &nbsp
+  <img alt="RAG"          src="https://img.shields.io/badge/RAG-FFB300?logo=openai&logoColor=black"           height="30"/>
+   &nbsp
+  <img alt="LangChain"    src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white"     height="30"/>
 
 ---
 
