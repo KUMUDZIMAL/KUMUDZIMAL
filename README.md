@@ -45,7 +45,9 @@
 ### Databases & Cloud  
 <p>
   <img alt="MongoDB"    src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"       height="30"/>
+  &nbsp
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+  &nbsp
   <img alt="AWS"        src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"       height="30"/>
   <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"         height="30"/>
 </p>
@@ -99,8 +101,7 @@
 
 ---
 
-> **“Strive not to be a success, but rather to be of value.” – Albert Einstein**
+
 
 ---
 
-![Kumud’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&hide_title=true)
