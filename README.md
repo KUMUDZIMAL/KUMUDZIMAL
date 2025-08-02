@@ -85,6 +85,8 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" height="30" style="margin-right:10px"/>
    &nbsp;
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white" height="30"/>
+    &nbsp;
+   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0F172A?logo=graphql&logoColor=white" height="30" style="margin-right:10px"/>
 </p>
 
 ---
