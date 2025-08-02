@@ -15,40 +15,65 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Languages & Paradigms:**  
-Java • Python • C/C++ • JavaScript • TypeScript  
-OOP • Data Structures & Algorithms • Unit Testing  
+### Languages  
+<p>
+  <img alt="Java"       src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"       height="30"/>
+  <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"   height="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30"/>
+  <img alt="C++"        src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"     height="30"/>
+</p>
 
-**Frontend & Backend:**  
-React.js • Next.js • React Native • Express.js • Spring Boot • jQuery • WordPress  
+### Frontend & UI  
+<p>
+  <img alt="React"        src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"        height="30"/>
+  <img alt="Next.js"      src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"      height="30"/>
+  <img alt="Redux"        src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"        height="30"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" height="30"/>
+</p>
 
-**Databases & Cloud:**  
-MongoDB • MySQL • PostgreSQL • Firebase • Docker • AWS EC2  
+### Backend & APIs  
+<p>
+  <img alt="Node.js"     src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"      height="30"/>
+  <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"   height="30"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white"  height="30"/>
+  <img alt="GraphQL"     src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"     height="30"/>
+</p>
 
-**Gen AI & ML:**  
-LLMs (RAG, LangChain) • TensorFlow.js • NumPy • Pandas • Scikit-Learn  
+### Databases & Cloud  
+<p>
+  <img alt="MongoDB"    src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"       height="30"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+  <img alt="AWS"        src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"       height="30"/>
+  <img alt="Docker"     src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"         height="30"/>
+</p>
 
-**Practices & Tools:**  
-Agile/Scrum • Git • CI/CD • Code Reviews  
+### ML & Gen AI  
+<p>
+  <img alt="TensorFlow.js" src="https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white" height="30"/>
+  <img alt="PyTorch"       src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"     height="30"/>
+  <img alt="LangChain"     src="https://img.shields.io/badge/LangChain-000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuUlEQVQ4T7WTT0hTURSGn3PPe8tZEhS4iIC0SNFNYW4KtFISR0Ikq0thYFECURF+QK0BdBtGQq7YIwT0LGiChIoJLSIpYIVCUeFcE92VnF3nPme55/7zsn43MjAz/Pec85zvnPPec1Xb9S1QFZB8Z8a/DHW2Ab4ObB1iAs4N+q5s4BbB+oKzg8aBcBzgrWA0pNgrWojO/Qq+gJ4BnxYuAZeCukTKD1wx2x3maFQ0/APtvRJZJ7QAPTgjrADuADedxI+7Bi4F+8BfQu4yCy+mzQCXkXn8Qz5otNlkhoNPY+TRTAu4GBNhK5eAwyAW0VkUkG/GGgxIL2q0ZKZJILT15NiZ7TLTXUu4BjYeqSzW0uYiUZnfFgy80o+o+AifgP2FwjIcTuiVrQvY7Gi9VlfaGk3RtZA5uvAD8o1BoS2Ybfx0yBW8TV1tJ8GK4gW0ZxpbeQLQtvtBC8QfjNTONzne77oe+AXcKf4X/KCH67lxL67A2QLfi7wPfhXR7bYQqGJr5vB2OHhhJblWzLWvB+Nx8mn5H6daFrCK8J1utt2fQPpwgL0IuMN+oz2kF9Iwwd/ynGLst+MayDSTkRFjEu7qPnT5P0tcvybGhA+h/DXgM+FcGp+HJybwAo0g00I4hYLHLnJGAAAAAElFTkSuQmCC" height="30"/>
+  <img alt="OpenAI"        src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"       height="30"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### [Theraflix](https://serenity-peach.vercel.app) | [Demo](https://serenity-peach.vercel.app) • [GitHub](https://github.com/KUMUDZIMAL/theraflix)  
+### [Theraflix](https://serenity-peach.vercel.app) • [GitHub](https://github.com/KUMUDZIMAL/theraflix)  
 - Full-stack MERN app for AI-powered mental health assessment & tracking  
 - RAG-based chatbot (Llama) handling 500+ queries in Month 1  
 - +25% session duration • 100+ active users  
 
-### [MentorHer](https://mentorher.vercel.app) | [Demo](https://mentorher.vercel.app) • [GitHub](https://github.com/KUMUDZIMAL/mentorher)  
+### [MentorHer](https://mentorher.vercel.app) • [GitHub](https://github.com/KUMUDZIMAL/mentorher)  
 - AI-driven mentorship platform for women in tech  
 - Built with Next.js, TypeScript, MongoDB, TensorFlow.js matching engine  
 - +30% pairing satisfaction • +50% sign-ups post-launch  
 
 ### [TalentSphere](https://github.com/KUMUDZIMAL/talentsphere)  
-- Ongoing: AI-powered artist hub for networking & portfolio management  
+- AI-powered artist hub for networking & portfolio management  
 - Smart filtering • Talent-opportunity matching • AI moderation  
 - Aiming to reduce casting search time by ~40%  
 
@@ -74,10 +99,8 @@ Agile/Scrum • Git • CI/CD • Code Reviews
 
 ---
 
-## 📫 Get in Touch
-
-Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/kumud-zimal-b1579b261/) or via email at **kumud131973@gmail.com**. Let’s build something amazing together!
+> **“Strive not to be a success, but rather to be of value.” – Albert Einstein**
 
 ---
 
-*“Strive not to be a success, but rather to be of value.” – Albert Einstein*  
+![Kumud’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&hide_title=true)
