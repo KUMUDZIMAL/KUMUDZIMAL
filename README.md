@@ -48,6 +48,10 @@
   <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"   height="30"/>
     &nbsp
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white"  height="30"/>
+   &nbsp
+  <img alt="Flask"       src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="30" style="margin-right:10px"/>
+   &nbsp
+  <img alt="FastAPI"     src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="30" style="margin-right:10px"/>
    
 </p>
 
