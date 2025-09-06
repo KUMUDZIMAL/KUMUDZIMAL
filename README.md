@@ -110,9 +110,6 @@
 ### GitHub Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=radical&column=7)
 
-### Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
-
 
 ---
 
