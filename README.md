@@ -107,7 +107,7 @@
 ### GitHub Stats
 ![Kumud Zimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&theme=radical)
 
-### GitHub Trophy
+### GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=radical&column=7)
 
 
