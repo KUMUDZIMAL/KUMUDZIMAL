@@ -113,7 +113,7 @@
 ## 📚 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUDZIMAL&layout=compact&theme=dark)
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=radical&column=7)
 
 
