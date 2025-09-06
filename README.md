@@ -1,4 +1,4 @@
-# Hi there, I’m **Kumud Mohan Zimal** 👋
+# Hi There, I’m **Kumud Mohan Zimal** 👋
 
 🖥️ Final-year Computer Engineering student at Vidyavardhini’s College of Engineering and Technology (Mumbai University)  
 🌐 Building full-stack & AI-powered solutions | Java • MERN • Gen AI • DevOps  
