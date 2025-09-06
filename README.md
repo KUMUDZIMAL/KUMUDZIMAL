@@ -104,11 +104,13 @@
 9. Web Developer Intern – Oasis Infobyte (Dec 2023–Jan 2024)  
 10. Top 10 Finalist – Code Relay (St. John College)  
 
-### GitHub Stats
-![Kumud Zimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Kumud Zimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUDZIMAL&layout=compact&theme=dark)
 
-### GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=radical&column=7)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=dark&row=1&column=7)
+
 
 
 ---
