@@ -1,6 +1,7 @@
 # Hi There, I’m **Kumud Mohan Zimal** 👋
 
-🖥️ Computer Engineering Graduate 🚀 Built Full-Stack AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
+🖥️ Computer Engineering Graduate 
+🚀 Built Full-Stack AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
 🏆 7× National-level Hackathons and Technical Competitions Winner | Innovator & Team Player  
 
 ---
