@@ -1,8 +1,8 @@
 # Hi There, I’m **Kumud Mohan Zimal** 👋
 
-🖥️ Final-year Computer Engineering student at Vidyavardhini’s College of Engineering and Technology (Mumbai University)  
-🌐 Building full-stack & AI-powered solutions | Java • MERN • Gen AI • DevOps  
-🏆 7× national-level hackathon winner | Innovator & Team Player  
+🖥️ Computer Engineering Graduate
+🚀 Built Full-Stack AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
+🏆 7× National-level Hackathons and Technical Competitions Winner | Innovator & Team Player  
 
 ---
 
