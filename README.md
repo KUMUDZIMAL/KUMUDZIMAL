@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me
 
-- 🌍 Portfolio: [kumudzimal.xyz](https://kumud-portfolio.vercel.app/)  
+- 🌍 Portfolio: [https://kumud-portfolio.vercel.app/](https://kumud-portfolio.vercel.app/)  
 - 💻 GitHub: [github.com/KUMUDZIMAL](https://github.com/KUMUDZIMAL)  
 - 🔗 LinkedIn: [linkedin.com/in/kumud-zimal-b1579b261](https://www.linkedin.com/in/kumud-zimal-b1579b261/)  
 - 📫 Email: kumud131973@gmail.com  
