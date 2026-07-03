@@ -3,6 +3,7 @@
 🖥️ Computer Engineering Graduate <br>
 🚀 Built Full-Stack AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
 🏆 7× National-level Hackathons and Technical Competitions Winner | Innovator & Team Player  
+💼 Hands-on Experience through Full Stack & Frontend Development Internships
 
 ---
 
