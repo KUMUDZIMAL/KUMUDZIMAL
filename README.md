@@ -1,7 +1,7 @@
 # Hi There, I’m **Kumud Mohan Zimal** 👋
 
 🖥️ Computer Engineering Graduate <br>
-🚀 Built Full-Stack AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
+🚀 Built Full-Stack & AI-powered Applications | MERN • Generative AI • Python | Currently upskilling in DevOps  
 🏆 7× National-level Hackathons and Technical Competitions Winner | Innovator & Team Player  
 💼 Hands-on Experience through Full Stack & Frontend Development Internships
 
@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me
 
-- 🌍 Portfolio: [kumudzimal.xyz](https://kumudzimal.xyz)  
+- 🌍 Portfolio: [kumudzimal.xyz](https://kumud-portfolio.vercel.app/)  
 - 💻 GitHub: [github.com/KUMUDZIMAL](https://github.com/KUMUDZIMAL)  
 - 🔗 LinkedIn: [linkedin.com/in/kumud-zimal-b1579b261](https://www.linkedin.com/in/kumud-zimal-b1579b261/)  
 - 📫 Email: kumud131973@gmail.com  
