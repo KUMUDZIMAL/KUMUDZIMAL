@@ -94,16 +94,16 @@
 
 ## 🏆 Achievements
 
-1. 1st Runner-Up – ARJUNA 1.0 Hackathon (NIT Agartala)  
-2. 2nd Runner-Up – Technical Paper Presentation (TECH-VISION)  
-3. Top 3 – HACKCONQUEST AI/ML Hackathon  
-4. 1st Runner-Up – PAPER-A-THON Research Competition  
-5. 4th Place (out of 183) – WEB-TECH-HACKATHON  
-6. 1st Prize – CODE-O-FIESTA Hackathon  
-7. Smart India Hackathon 2024 – Waitlisted (PS ID-SIH1689)  
-8. Top 10 (out of 800+) – PEC HACKS International Hackathon  
-9. Web Developer Intern – Oasis Infobyte (Dec 2023–Jan 2024)  
-10. Top 10 Finalist – Code Relay (St. John College)  
+1. 1st Runner-Up - ARJUNA 1.0 Hackathon (NIT Agartala)  
+2. 2nd Runner-Up - Technical Paper Presentation (TECH-VISION)  
+3. Top 3 - HACKCONQUEST AI/ML Hackathon  
+4. 1st Runner-Up - PAPER-A-THON Research Competition  
+5. 4th Place (out of 183) - WEB-TECH-HACKATHON  
+6. 1st Prize - CODE-O-FIESTA Hackathon  
+7. Smart India Hackathon 2024 - Waitlisted (PS ID-SIH1689)  
+8. Top 10 (out of 800+) - PEC HACKS International Hackathon  
+9. Web Developer Intern - Oasis Infobyte (Dec 2023–Jan 2024)  
+10. Top 10 Finalist - Code Relay (St. John College)  
 
 ## 📊 GitHub Stats
 ![Kumud Zimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMUDZIMAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
