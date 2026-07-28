@@ -111,11 +111,7 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=KUMUDZIMAL&theme=dark&hide_border=false)
 
-## 📚 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMUDZIMAL&layout=compact&theme=dark)
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=KUMUDZIMAL&theme=radical&column=7)
 
 
 
